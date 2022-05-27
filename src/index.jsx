@@ -8,7 +8,7 @@ const App = () => {
     return (
         <div>
             <h1>Hello there!</h1>
-            <Grid xs="XS!!!">
+            <Grid item xs="XS!!!">
                 <ul>
                     <li>I am a child</li>
                     <li>me too</li>
